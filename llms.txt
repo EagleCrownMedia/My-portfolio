@@ -1,0 +1,6 @@
+# Your Name
+> Freelance digital marketer, video editor and web designer in Your City, India.
+- [Home](https://yourdomain.com/index.html): services overview
+- [About](https://yourdomain.com/about.html): background, skills, FAQ
+- [Gallery](https://yourdomain.com/gallery.html): selected projects
+- [Contact](https://yourdomain.com/contact.html): hire me, reply within 24 hours
